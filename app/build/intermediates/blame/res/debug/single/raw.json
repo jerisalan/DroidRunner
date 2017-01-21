@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\build\\intermediates\\res\\merged\\debug\\raw\\eatpastry.wav",
+        "source": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\src\\main\\res\\raw\\eatpastry.wav"
+    },
+    {
+        "merged": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droidcrash.wav",
+        "source": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\src\\main\\res\\raw\\droidcrash.wav"
+    },
+    {
+        "merged": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droidjump.wav",
+        "source": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\src\\main\\res\\raw\\droidjump.wav"
+    }
+]

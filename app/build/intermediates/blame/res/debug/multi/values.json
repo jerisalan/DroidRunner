@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 44,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 48,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 48,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 40,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 40,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 67,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 67,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 25,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 33,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 44,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "C:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 44,
+                        "endOffset": 253
+                    }
+                }
+            }
+        ]
+    }
+]

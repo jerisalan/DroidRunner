@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About Game</string>
+    <string name="app_name">DroidRunner</string>
+    <string name="back">Go Back</string>
+    <string name="hello">Hello World, DroidRunnerActivity!</string>
+    <string name="none"/>
+    <string name="start">Start Game</string>
+</resources>

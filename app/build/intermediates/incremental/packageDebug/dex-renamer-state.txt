@@ -1,0 +1,7 @@
+#Sat Jan 21 03:13:11 EST 2017
+base.0=C\:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c5d3425d6a4420bee1f1ce067786ec2676d9e942
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0a1607f33e9dce13f30de486cb0bf5ead836f814\\classes.dex
+base.1=C\:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0a1607f33e9dce13f30de486cb0bf5ead836f814
+file.0=C\:\\Users\\alanj\\AndroidStudioProjects\\DroidRunner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c5d3425d6a4420bee1f1ce067786ec2676d9e942\\classes.dex
